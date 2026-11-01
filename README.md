@@ -19,3 +19,4 @@ Flutter, Dart, SQLite (sqflite), image_picker
 2. git clone https://github.com/sumamaqazi098/aerodiary.git
 3. flutter pub get
 4. flutter run
+committ is being done by abdullah azam
