@@ -20,3 +20,4 @@ Flutter, Dart, SQLite (sqflite), image_picker
 3. flutter pub get
 4. flutter run
 committ is being done by abdullah azam
+committ is being done by muzamil khan
